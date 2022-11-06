@@ -1,1 +1,1 @@
-This repo is to mess around with git commands and become a git master
+Repo to mess around with git commands and become more comfortable with git tings
